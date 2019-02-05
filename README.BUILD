@@ -1,4 +1,3 @@
-
 Building Hermes requires a 1.5 JDK.
 
 You must seprartely obtain the JIDE libraries from http://www.jidesoft.com. If you do any work on Hermes that uses the JIDE API or redistribute Hermes you must contact JIDE for an appropriate license. All of Hermes is Apache 2.0 licensed but it depends on JIDE which is commercial. 
